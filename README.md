@@ -8,7 +8,7 @@
 ## Quick start
 *   Download or clone this repository
 *   Run `pip install -r requirements.txt` in order to ensure you have the right dependencies installed (I am 99% sure I have included all the necessary packages there).
-*   Create a [config file and add your APIkey](https://github.com/ElsevierDev/elsapy/blob/master/CONFIG.md) to it. I have included my own APIkey, but please avoid using it extensively or I may get in trouble.
+*   Create a [config file and add your APIkey](https://github.com/ElsevierDev/elsapy/blob/master/CONFIG.md) to it.
 *   Run the command `jupyter notebook` and open the file "main.ipynb" (which you can modify at will).
 
 ## Useful links
@@ -21,4 +21,4 @@
 | Write a minimum working example that saves data to .xlsx and .csv and link it here | pending | Alfredo |
 | Upload a Jupyter notebook template for R code | pending | Alfredo |
 | Improve generality and readability of parsing code (the code converting the raw .json into neat tables). | pending | Alfredo |
-| Start adding (Python or R) notebooks with possible research questions and ways to explore/answer them (i.e. generate material) | pending | Alfredo & José |
+| Start adding (Python or R) notebooks with possible research questions and ways to explore/answer them (i.e. generate material) | pending | Alfredo & JosÃ© |
