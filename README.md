@@ -24,3 +24,9 @@
 | 2      | Upload a Jupyter notebook template for R code. It may (or not) be as easy as following [these instructions](https://irkernel.github.io/) | pending | Alfredo + José |
 | 3      | Improve generality and readability of parsing code (the code converting the raw .json into neat tables). | **In progress...** | [data_cleanup.ipynb](https://bitbucket.org/losvetes/qfeverdata/annotate/master/data_cleanup.ipynb?fileviewer=notebook-viewer%3Anbviewer) |
 | 4      | Start adding (Python or R) notebooks with possible research questions and ways to explore/answer them (i.e. generate material) | pending | Alfredo + José |
+
+## Ideas to discuss
+* Would it make any sense to see how a map like the one in [`data_cleanup.ipynb`](https://bitbucket.org/losvetes/qfeverdata/annotate/master/data_cleanup.ipynb?fileviewer=notebook-viewer%3Anbviewer) changes after each year?
+Do we have any external *"real-world"* information we could potentially correlate the changes with? (e.g. evidence of increased funding, a research program, a Q-fever outbreak, etc.)
+  * It *should be* relatively easy to create video-like image sequences and see if there are any meaningful changes/evolution year by year for a given topic.
+  * Yes / No / Maybe / Comment...
