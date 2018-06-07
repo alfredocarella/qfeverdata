@@ -1,4 +1,5 @@
 # qfevermaps
+Jupyter notebooks for downloading and visualizing Scopus article metadata using Pandas.
 
 ## Prerequisites
 *   An API key from http://dev.elsevier.com
